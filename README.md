@@ -1,6 +1,6 @@
 # Cylestio Dashboard
 
-A real-time monitoring dashboard for tracking LLM (Large Language Model) interactions, tool usage, and system performance. Built with Python and modern web technologies.
+Local security monitoring and observability dashboard for AI agents, providing real-time monitoring of LLM (Large Language Model) interactions, tool usage, and system performance. Built with Python and modern web technologies.
 
 ## Features
 
@@ -31,7 +31,7 @@ A real-time monitoring dashboard for tracking LLM (Large Language Model) interac
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/cylestio-dashboard.git
+git clone https://github.com/cylestio/cylestio-dashboard.git
 cd cylestio-dashboard
 ```
 
@@ -47,7 +47,7 @@ python3 server.py
 
 4. Open your browser and navigate to:
 ```
-http://localhost:5000
+http://localhost:5006
 ```
 
 ## Project Structure
@@ -126,4 +126,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 - Chart.js for data visualization
 - DataTables for table management
-- Font Awesome for icons 
+- Font Awesome for icons
