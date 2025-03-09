@@ -17,6 +17,12 @@ Local security monitoring and observability dashboard for AI agents, providing r
 - **Responsive Design**: Fully responsive layout that works on desktop and mobile devices
 - **Security Features**: Monitor and configure security terms and alerts
 
+## Contact
+
+For any questions or support, please contact us at:
+- Technical Support: max@cylestio.com
+- Security Issues: security@cylestio.com
+
 ## Tech Stack
 
 - Python 3.x (Backend Server)
